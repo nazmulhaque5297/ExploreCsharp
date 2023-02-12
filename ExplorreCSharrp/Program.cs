@@ -10,6 +10,9 @@ namespace ExplorreCSharrp
     {
         static void Main(string[] args)
         {
+            ExplainList explainList= new ExplainList();
+            explainList.findEvenNumber();
+            Console.ReadLine();
         }
     }
 }
