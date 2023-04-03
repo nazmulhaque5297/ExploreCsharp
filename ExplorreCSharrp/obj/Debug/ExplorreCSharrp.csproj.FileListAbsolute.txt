@@ -6,3 +6,11 @@ C:\Users\Administrator\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreC
 C:\Users\Administrator\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.exe
 C:\Users\Administrator\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.pdb
+C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\bin\Debug\ExplorreCSharrp.exe.config
+C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\bin\Debug\ExplorreCSharrp.exe
+C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\bin\Debug\ExplorreCSharrp.pdb
+C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.exe
+C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.pdb

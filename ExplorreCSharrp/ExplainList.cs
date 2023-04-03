@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+public delegate void HelloFunctionDelegate(string message);
+
 namespace ExplorreCSharrp
 {
     internal class ExplainList
