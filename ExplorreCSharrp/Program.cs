@@ -11,6 +11,7 @@ namespace ExplorreCSharrp
     {
         static void Main(string[] args)
         {
+            /*
 
             Customer[] customers = new Customer[3];
             customers[0] = new Customer
@@ -46,7 +47,10 @@ namespace ExplorreCSharrp
             foreach (int value in valueOfWithInitializeValue)
             {
                 Console.WriteLine(value);
-            }
+            } */
+
+            MethodHidding mh = new MethodHidding();
+            mh.DisplayEmployeeName();
 
             Console.ReadLine();
         }

@@ -14,3 +14,10 @@ C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.
 C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.csproj.CoreCompileInputs.cache
 C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.exe
 C:\Users\LENOVO\Desktop\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.pdb
+E:\learn c#\ExploreCsharp\ExplorreCSharrp\bin\Debug\ExplorreCSharrp.exe.config
+E:\learn c#\ExploreCsharp\ExplorreCSharrp\bin\Debug\ExplorreCSharrp.exe
+E:\learn c#\ExploreCsharp\ExplorreCSharrp\bin\Debug\ExplorreCSharrp.pdb
+E:\learn c#\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.csproj.AssemblyReference.cache
+E:\learn c#\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.csproj.CoreCompileInputs.cache
+E:\learn c#\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.exe
+E:\learn c#\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.pdb
