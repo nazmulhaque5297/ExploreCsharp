@@ -47,12 +47,17 @@ namespace ExplorreCSharrp
                         {
                             Console.WriteLine(value);
                         }
-            */
+           
 
 
 
             Polymorphism pm = new Polymorphism();
             pm.DisplayEmployeeName();
+
+            */
+
+            Properties p = new Properties();
+            p.ViewProPerties();
 
             Console.ReadLine();
         }
