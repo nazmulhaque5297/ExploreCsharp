@@ -57,6 +57,63 @@ namespace ExplorreCSharrp
             return this._passmark;
         }
     }
+
+
+    public class StudentWitHProperties
+    {
+        private int _id;
+        private String _name;
+        private int _passmark = 35;
+
+        public int Id
+        {
+            set {
+                if (value < 0)
+                {
+                    throw new Exception("Id Can not Be Negative Value ");
+                }
+
+                else if (value >= 0)
+                {
+                    this._id = value;
+                }
+            }
+            get { return this._id; }
+        }
+
+        public string Name
+        {
+            set
+            {
+                if (string.IsNullOrEmpty(value))
+                {
+                    throw new Exception("Name Can not Null/Empty");
+                }
+
+                else
+                {
+                    this._name = value;
+                }
+            }
+            get
+            {
+                return this._name;
+            }
+
+        }
+        public int PassMark
+        {
+            get{ return this._passmark; }
+        }
+
+
+        // here the Class Properties is a auto implemented. While running the program the compiler set a private field against the Class Property.
+
+        public int Class { get; set; }
+    }
+
+
+
     class Properties
     {
         public void ViewProPerties()
@@ -65,6 +122,12 @@ namespace ExplorreCSharrp
             swp.SetId (101);
             swp.SetName("Nazmul Haque");
             Console.WriteLine("Id={0} Name={1} passMark={2}", swp.GetId(), swp.GetName(), swp.GetPassMark());
+
+            StudentWitHProperties sp = new StudentWitHProperties();
+            sp.Name = "Nazmul Haque";
+            sp.Id = 101;
+            sp.Class = 10;
+            Console.WriteLine("Id={0} Name={1} passMark={2} class={3} with properties", sp.Id, sp.Name, sp.PassMark, sp.Class) ;
         }
 
 
