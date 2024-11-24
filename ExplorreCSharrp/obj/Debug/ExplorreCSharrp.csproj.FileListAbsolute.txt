@@ -21,3 +21,10 @@ E:\learn c#\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.csproj.Assem
 E:\learn c#\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.csproj.CoreCompileInputs.cache
 E:\learn c#\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.exe
 E:\learn c#\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.pdb
+D:\Learning\ExploreCsharp\ExplorreCSharrp\bin\Debug\ExplorreCSharrp.exe.config
+D:\Learning\ExploreCsharp\ExplorreCSharrp\bin\Debug\ExplorreCSharrp.exe
+D:\Learning\ExploreCsharp\ExplorreCSharrp\bin\Debug\ExplorreCSharrp.pdb
+D:\Learning\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.csproj.AssemblyReference.cache
+D:\Learning\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.csproj.CoreCompileInputs.cache
+D:\Learning\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.exe
+D:\Learning\ExploreCsharp\ExplorreCSharrp\obj\Debug\ExplorreCSharrp.pdb
