@@ -15,57 +15,7 @@ namespace ExplorreCSharrp
         
         static void Main(string[] args)
         {
-            /*
-                        Customer[] customers = new Customer[3];
-                        customers[0] = new Customer
-                        {
-                            Name = "Test",
-                            genderInit = GenderWithInitializeValue.Unknown
-                        };
-                        customers[1] = new Customer
-                        {
-                            Name = "Test",
-                            genderCustomize = GenderWithCustomizeValue.Unknown
-                        };
-
-                        customers[2] = new Customer
-                        {
-                            Name = "Nazmul",
-                            genderCustomize = GenderWithCustomizeValue.Male,
-                            genderInit = GenderWithInitializeValue.Male
-                        };
-
-                        int[] valueOfGenderWithInitializeValue = Customer.GenderWithInitializeValue();
-                        int[] valueOfWithInitializeValue = Customer.getGenderWithCustomizeValue();
-                        foreach (Customer customer in customers)
-                        {
-                            Console.WriteLine("The Name of the Customer is : {0},Gender is :{1}",customer.Name,customer.genderInit);
-
-                        }
-
-                        foreach (int value in valueOfGenderWithInitializeValue) {
-                            Console.WriteLine(value);
-                        }
-
-                        foreach (int value in valueOfWithInitializeValue)
-                        {
-                            Console.WriteLine(value);
-                        }
-           
-
-
-
-            Polymorphism pm = new Polymorphism();
-            pm.DisplayEmployeeName();
-
-        
-
-            Properties p = new Properties();
-            p.ViewProPerties();
-
-                */
-
-
+       
             Deligate de = new Deligate();
             helloPrinterDeligate d = new helloPrinterDeligate(de.helloPrinter);
             d("hi this is nazmul call from a delegeate");
